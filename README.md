@@ -7,7 +7,7 @@
 { 
         "MmcdpServers":{
             "addTwoIntegers": {
-            "command": "/Users/Inoussa/.local/bin/uvx",
+            "command": "uvx",
             "args": [
                 "--from",
                 "git+https://github.com/imouiche/MCP-model-context-protocol.git",
